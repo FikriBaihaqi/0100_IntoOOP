@@ -34,3 +34,7 @@ class MataKuliah{
         cout << "SKS: " << sks << endl;
         }
 };
+
+int main (){
+    
+}
